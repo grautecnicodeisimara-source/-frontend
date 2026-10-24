@@ -1,1 +1,12 @@
-
+O Frontend (ou lado do cliente) é a camada de uma aplicação web com a qual o usuário interage diretamente.O que faz: Tudo o que você vê, lê e clica em um site — como menus de navegação, botões, imagens, formulários e animações — faz parte do frontend.
+Onde roda: Ele é executado diretamente no navegador do usuário (como Google Chrome, Safari ou Firefox).
+Esse é o modelo arquitetural básico que faz a internet funcionar, baseado na divisão de tarefas entre quem pede e quem fornece:
+Cliente: É o dispositivo ou software que solicita a informação (geralmente o navegador web no seu computador ou celular). O cliente faz uma requisição.
+Servidor: É um computador remoto de alta capacidade que armazena os arquivos, dados e códigos de um site. Ele recebe a requisição do cliente, processa a solicitação e devolve uma resposta (por exemplo, os arquivos da página web ou os dados de um perfil)
+Essas são as três tecnologias fundamentais que estruturam e dão vida a qualquer página web no frontend:
+HTML (HyperText Markup Language): É a estrutura. Define o esqueleto e o conteúdo da página, organizando textos, imagens, títulos, links e botões em blocos lógicos.
+CSS (Cascading Style Sheets): É o estilo. Cuida da aparência visual, definindo cores, fontes, espaçamentos, posicionamento de elementos e a adaptação do layout para diferentes tamanhos de tela (responsividade).
+JavaScript: É o comportamento. Adiciona interatividade e lógica à página, permitindo criar animações, menus dinâmicos, validações de formulários em tempo real e atualizações de conteúdo sem precisar recarregar a página.
+O W3C (World Wide Web Consortium) é a principal organização internacional de padronização da World Wide Web.
+Função: Fundada por Tim Berners-Lee (criador da web) em 1994, a organização cria padrões abertos e diretrizes técnicas (como as especificações oficiais de HTML, CSS e acessibilidade web).
+Objetivo: Garantir que a internet funcione de forma consistente, compatível, segura e acessível em qualquer navegador ou dispositivo ao redor do mundo.
